@@ -1,0 +1,10 @@
+{
+  "balances": {
+    "MRCH-CX9B-C37S-6DJG-7882S": 5000000000000000,
+    "MRCH-BYTK-YEUT-4JZV-ACEPG": 5000000000000000
+  },
+  "publicKeys": [
+    "9dceb5f37c4b757db0711c57e457269b803d844cd112e40aa15f00feff45e125",
+    "9fe205d6a26cd5c1ddfba8b69909083cc7cbe1368c3e6e78852016d2aba3d471"
+  ]
+}
